@@ -1,0 +1,1 @@
+.brk-img-zoom{position:relative;transition:.3s ease opacity}.brk-img-zoom::after{content:'';display:block;padding-top:120%}.brk-img-zoom:hover{z-index:2}.brk-img-zoom_not-hovered{opacity:.3}

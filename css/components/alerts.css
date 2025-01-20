@@ -1,0 +1,1 @@
+.alert{box-shadow:0 5px 14px 0 rgba(0,0,0,.1);border-radius:0;border:0;background:#fff;padding:26px 31px;border-left:3px solid;margin:0 auto 20px;position:relative}.brk-bordered-theme .alert{border-radius:var(--b-radius)}.alert>a{font-weight:600}.alert.fade{will-change:opacity;transition:opacity .3s ease-in-out}.alert.show{transition:opacity .15s linear}
